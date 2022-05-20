@@ -3,6 +3,12 @@ I asked GPT-3 to write a program to solve a maze. It did.
 
 See it in [the playground](https://beta.openai.com/playground/p/wNiL2BaK2bUVTwMx36HH5lPV).
 
+# How to use
+
+1. Clone the repo. 
+2. `cd gpt3-python-maze-solver`
+3. `python maze-solver.py && open solution.png`
+
 # Instructions provided to GPT-3
 ```
 Image of maze:
